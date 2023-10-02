@@ -14,8 +14,8 @@
 В процессе тестирования использовались следующие артефакты:
 * Тестовое задание [Задча №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision)
 
-В качестве тестовых данных использовались данные указанные [коде](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision):
-* Заданные переменные: `regularBonus = 0.3` и `specialBonus = 0.6`, ожидаемый результат в переменной `totalBonus`: 0.9 . 
+В качестве тестовых данных использовались данные указанные в [коде](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---precision):
+* Заданные переменные: `regularBonus = 0.3` и `specialBonus = 0.6`, *ожидаемый результат* в переменной `totalBonus`: 0.9 . 
 
 Тестирование производилось в следующем окружении:
 * Ubuntu 22.04 LTS amd64
